@@ -1,3 +1,5 @@
-for (i = 0; i < 5; i++) {
-	console.log("Hello Print: " + i)
-}
+// for (i = 0; i < 5; i++) {
+// 	console.log("Hello Print: " + i)
+// }
+
+echo date
