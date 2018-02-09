@@ -2,4 +2,4 @@
 // 	console.log("Hello Print: " + i)
 // }
 
-echo date
+echo date Test
