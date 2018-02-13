@@ -1,5 +1,3 @@
-// for (i = 0; i < 5; i++) {
-// 	console.log("Hello Print: " + i)
-// }
-
-asf sdfh
+for (i = 0; i < 5; i++) {
+	console.log("Hello Print: " + i)
+}
